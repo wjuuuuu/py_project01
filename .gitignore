@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java
+*.class
+
+# Python
+__pycache__/
+*.pyc
+
+# C/C++
+*.out
+*.o
+*.exe
+
+# macOS 调试文件
+*.dSYM/
+
+# 你的编译输出目录
+output/
